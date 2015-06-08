@@ -1,4 +1,5 @@
-﻿using Funq;
+﻿using System.ServiceProcess;
+using Funq;
 using ServiceStack;
 using WindowsService1.ServiceInterface;
 using WindowsService1.ServiceModel;
